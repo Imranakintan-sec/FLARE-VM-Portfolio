@@ -1,0 +1,21 @@
+# Windows temporary files
+Thumbs.db
+Desktop.ini
+*.tmp
+
+# Log files
+*.log
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.venv/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Editor and operating system files
+.vscode/
+.DS_Store
