@@ -1,8 +1,8 @@
-\# FLARE-VM Installation and Troubleshooting Lab
+# FLARE-VM Installation and Troubleshooting Lab
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -22,31 +22,31 @@ Rather than bypassing security checks, I investigated the errors, used PowerShel
 
 
 
-\## Project Objectives
+## Project Objectives
 
 
 
-\- Build a Windows malware-analysis environment.
+- Build a Windows malware-analysis environment.
 
-\- Install and configure FLARE-VM.
+- Install and configure FLARE-VM.
 
-\- Troubleshoot Chocolatey package installation failures.
+- Troubleshoot Chocolatey package installation failures.
 
-\- Practice PowerShell commands for system administration.
+- Practice PowerShell commands for system administration.
 
-\- Investigate software download and dependency errors.
+- Investigate software download and dependency errors.
 
-\- Calculate SHA-256 hashes to examine file integrity.
+- Calculate SHA-256 hashes to examine file integrity.
 
-\- Verify Authenticode digital signatures.
+- Verify Authenticode digital signatures.
 
-\- Document technical findings and troubleshooting procedures.
+- Document technical findings and troubleshooting procedures.
 
-\- Practice Git and GitHub version control.
+- Practice Git and GitHub version control.
 
 
 
-\## Tools and Technologies
+## Tools and Technologies
 
 
 
@@ -84,53 +84,53 @@ Rather than bypassing security checks, I investigated the errors, used PowerShel
 
 
 
-\## Key Activities
+## Key Activities
 
 
 
-1\. Created a Windows 10 virtual machine.
+1. Created a Windows 10 virtual machine.
 
-2\. Installed FLARE-VM.
+2. Installed FLARE-VM.
 
-3\. Investigated failed Chocolatey packages.
+3. Investigated failed Chocolatey packages.
 
-4\. Troubleshot Node.js-related installation errors.
+4. Troubleshot Node.js-related installation errors.
 
-5\. Investigated unavailable download sources.
+5. Investigated unavailable download sources.
 
-6\. Manually recovered selected software from official developer websites.
+6. Manually recovered selected software from official developer websites.
 
-7\. Inspected ZIP archives before extraction.
+7. Inspected ZIP archives before extraction.
 
-8\. Calculated SHA-256 hashes.
+8. Calculated SHA-256 hashes.
 
-9\. Investigated Authenticode signatures and certificate chains.
+9. Investigated Authenticode signatures and certificate chains.
 
-10\. Tested recovered applications.
+10. Tested recovered applications.
 
-11\. Documented installation outcomes and lessons learned.
-
-
-
-\## Security Considerations
+11. Documented installation outcomes and lessons learned.
 
 
 
-\- Used official developer sources for manual downloads.
-
-\- Examined SHA-256 hashes.
-
-\- Investigated digital signature validity.
-
-\- Avoided bypassing checksum verification.
-
-\- Did not manually trust an untrusted root certificate.
-
-\- Kept malware-analysis activities separate from the host operating system.
+## Security Considerations
 
 
 
-\## Project Status
+- Used official developer sources for manual downloads.
+
+- Examined SHA-256 hashes.
+
+- Investigated digital signature validity.
+
+- Avoided bypassing checksum verification.
+
+- Did not manually trust an untrusted root certificate.
+
+- Kept malware-analysis activities separate from the host operating system.
+
+
+
+## Project Status
 
 
 
@@ -142,7 +142,7 @@ Some package issues remained under investigation, including the HxD download fai
 
 
 
-\## Learning Outcomes
+## Learning Outcomes
 
 
 
@@ -150,7 +150,7 @@ This project provided practical experience with Windows administration, PowerShe
 
 
 
-\## Disclaimer
+## Disclaimer
 
 
 
