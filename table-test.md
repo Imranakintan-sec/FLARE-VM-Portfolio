@@ -4,7 +4,7 @@
 
 | Tool | Purpose |
 
-|---|---|
+| :--- | :--- |
 
 | VirtualBox | Virtualization |
 
